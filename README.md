@@ -2,7 +2,7 @@
 # 🚗 Dynamic Pricing for Urban Parking Lots
 
 ### 🧠 Capstone Project – Summer Analytics 2025  
-👤 By: Niladri Banerjee
+👤 By: Riya Phulwani
 
 ---
 
